@@ -22,8 +22,10 @@ INSERT INTO Worker
 		(007, 'Satish', 'Kumar', 75000, '14-01-20 09.00.00', 'Account'),
 		(008, 'Geetika', 'Chauhan', 90000, '14-04-11 09.00.00', 'Admin');
         
-SELECT * FROM Title;
+		USE ORG;
+SELECT * FROM Worker;
 
+USE ORG;
 CREATE TABLE Bonus (
 	WORKER_REF_ID INT,
 	BONUS_AMOUNT INT(10),

@@ -23,7 +23,7 @@ Open VS Code.
 2. Search for and install: "MySQL" (by Jun Han).
 
 ## 3. Configure Connection 
-
+localhost
 1. Open Command Palette.
 2. Type: MySQL: Add Connection
 3. Enter:
